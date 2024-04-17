@@ -1,0 +1,2 @@
+run:
+	ocaml main.ml
